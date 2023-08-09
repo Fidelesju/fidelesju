@@ -32,7 +32,7 @@ Therefore, welcome to my world of code lines and creativity, where artificial in
 src="https://raw.githubusercontent.com/gist/Fidelesju/7caf6acb647cfc2742e20759d1242d2f/raw/5e08f4f4ab12fe52411d7e0a7fa79749318cff09/octocatfidelesju.svg">
 
 
-## Meus links mais importantes
+## Contact
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliafideles/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqZhDWfdSsJjKtlKvSNGdrpflJjcPzkJGHFjTstTVbNGBxfqLdrwQSgRxWDLNlPzgtGCnq) 
 [![Medium](	https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@julia.hfideles) 
